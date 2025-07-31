@@ -60,6 +60,14 @@ Hotspot pattern analysis in ecological studies
 
 [🔗 Global Fire Data Access Porta](https://firms.modaps.eosdis.nasa.gov/download/)
 
+### 🛠️ Tools & Environment
+
+- **Language**: Python 3.12.10  
+- **IDE**: VS Code with Jupyter Notebook  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost
+
+---
+
 # Internship Progress Report
 
 ## 📅 Week 1 – Completed ✅
@@ -74,17 +82,21 @@ Hotspot pattern analysis in ecological studies
 
 ---
 
-## 🛠️ Tools & Environment
 
-- **Language**: Python 3.12.10  
-- **IDE**: VS Code with Jupyter Notebook  
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost
+## 📅 Week 2 – Completed ✅  
+**Focus:** Feature Engineering and Preprocessing
+
+- Created temporal features (month, day of week, hour)  
+- Visualized trends and correlations  
+- Detected and removed outliers (IQR method)  
+- Applied one-hot encoding to categorical features  
+- Scaled numerical features using StandardScaler  
+- Balanced classes using SMOTE  
 
 ---
 
 ## 📌 Upcoming Progress
 
-- **Week 2** – *(Coming Soon...)*
 - **Week 3** – *(Coming Soon...)*
 
 ---
