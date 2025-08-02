@@ -66,6 +66,74 @@ Hotspot pattern analysis in ecological studies
 - **IDE**: VS Code with Jupyter Notebook  
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost
 
+## 🚀 How to Run This Project Locally
+
+Follow these steps to run the complete **Fire Classification** project — including data analysis and the Streamlit web app — on your local machine.
+
+---
+
+### 📁 Step 1: Download Project Files
+
+📦 Clone or download the repository and ensure it includes:
+- `Fire classification.ipynb` – Jupyter notebook for analysis and model training  
+- `app.py` – Streamlit web app for fire type prediction  
+- Dataset CSV files:  
+  - `MODIS_fire_2021.csv`  
+  - `MODIS_fire_2022.csv`  
+  - `MODIS_fire_2023.csv`
+
+🗂️ Place all files in a single project directory for easy access.
+
+---
+
+### ⚙️ Step 2: Install Dependencies
+
+🧪 Make sure **Python 3.x** is installed. Install required packages using:
+
+```bash
+pip install -r requirements.txt
+```
+💡 Alternatively, install manually:
+pip install pandas numpy matplotlib seaborn folium scikit-learn imbalanced-learn xgboost streamlit joblib
+
+---
+
+### 📊 Step 3: Run Jupyter Notebook (Model Training)
+
+- 🧠 Open the notebook:
+ ```copy
+ jupyter notebook
+```
+- Launch Fire classification.ipynb
+
+- Run all cells in order
+
+- This loads, cleans, and analyzes data, then trains and saves the ML model (model.pkl or similar)
+
+✅ Ensure no errors and the model file is saved successfully.
+
+---
+
+### 🌐 Step 4: Launch the Streamlit Web App
+
+In your terminal, navigate to the project directory and run:
+```bash
+streamlit run app.py
+```
+🌍 This will automatically open the app in your browser. If not, open the local URL shown in the terminal (usually http://localhost:8501).
+
+---
+
+### 🔍 Step 5: Use the Web App for Predictions
+
+- 🖱️ In the Streamlit interface:
+
+- Enter input values such as brightness, FRP, latitude, longitude, etc.
+
+- Click on the Predict button
+
+✅ Instantly view the predicted fire type on the screen!
+
 ---
 
 # Internship Progress Report
