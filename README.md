@@ -95,9 +95,15 @@ Hotspot pattern analysis in ecological studies
 
 ---
 
-## 📌 Upcoming Progress
+## 📅 Final Week 3 – Completed ✅  
+**Focus:** Model Training, Evaluation, and Export
 
-- **Week 3** – *(Coming Soon...)*
+- Split data into training and testing sets  
+- Trained models: Logistic Regression, Decision Tree, Random Forest, KNN  
+- Evaluated models with accuracy, precision, recall, F1-score  
+- Selected Random Forest as best model (accuracy ≈ 97.78%)  
+- Exported trained model and scaler using Joblib  
+- Developed and tested the Streamlit web application
 
 ---
 
