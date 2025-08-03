@@ -4,7 +4,7 @@
 <i>Data Scientist/Analyst & Trainer</i></div>
 
 >start Date: 15th July 2025
->>End Date: 3rd August 2025
+>>End Date: ...
 
 ## Classification of Fire Types in India Using MODIS Satellite Data (2021–2023)
 
