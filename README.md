@@ -1,10 +1,10 @@
 # Fire_Classification_AI/ML_Internship_Edunet
-- [📈Internship Weekly Progress Report Check](#internship-progress-report)
+|| [📈Internship Weekly Progress Report Check](#internship-progress-report) || [🚀 How to Run This Project Locally](#how-to-run-this-project-locally) ||
 <div align="right"><h4><b>Mentor:</b> Raghunandan M S</h4>
 <i>Data Scientist/Analyst & Trainer</i></div>
 
 >start Date: 15th July 2025
->>End Date: ...
+>>End Date: 3rd August 2025
 
 ## Classification of Fire Types in India Using MODIS Satellite Data (2021–2023)
 
@@ -66,7 +66,7 @@ Hotspot pattern analysis in ecological studies
 - **IDE**: VS Code with Jupyter Notebook  
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost
 
-## 🚀 How to Run This Project Locally
+# How to Run This Project Locally
 
 Follow these steps to run the complete **Fire Classification** project — including data analysis and the Streamlit web app — on your local machine.
 
@@ -93,9 +93,12 @@ Follow these steps to run the complete **Fire Classification** project — inclu
 ```bash
 pip install -r requirements.txt
 ```
-💡 Alternatively, install manually:
-pip install pandas numpy matplotlib seaborn folium scikit-learn imbalanced-learn xgboost streamlit joblib
 
+💡 Alternatively, install manually:
+
+```bash
+pip install pandas numpy matplotlib seaborn folium scikit-learn imbalanced-learn xgboost streamlit joblib
+```
 ---
 
 ### 📊 Step 3: Run Jupyter Notebook (Model Training)
