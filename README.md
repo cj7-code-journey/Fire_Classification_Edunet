@@ -1,10 +1,10 @@
 # Fire_Classification_AI/ML_Internship_Edunet
-|| [📈Internship Weekly Progress Report Check](#internship-progress-report) || [🚀 How to Run This Project Locally](#how-to-run-this-project-locally) ||
+|| [📈Internship Weekly Progress Report Check](#internship-progress-report) || [👨‍💻 How to Run This Project Locally](#how-to-run-this-project-locally) || [🛑Live Demo Fire Classification app](#live-demo) ||
 <div align="right"><h4><b>Mentor:</b> Raghunandan M S</h4>
 <i>Data Scientist/Analyst & Trainer</i></div>
 
 >start Date: 15th July 2025
->>End Date: ...
+>>End Date: 16th August 2025
 
 ## Classification of Fire Types in India Using MODIS Satellite Data (2021–2023)
 
@@ -65,6 +65,12 @@ Hotspot pattern analysis in ecological studies
 - **Language**: Python 3.12.10  
 - **IDE**: VS Code with Jupyter Notebook  
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost
+
+## Live Demo
+
+This application is deployed live on Streamlit Cloud. You can access it directly here:
+
+👉 **[https://fire-classification.streamlit.app/]** 👈
 
 # How to Run This Project Locally
 
